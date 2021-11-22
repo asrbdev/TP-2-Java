@@ -15,8 +15,8 @@ public class PrintArgs {
 	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		//System.out.println("TP2 Java");
-//	//Solution 1
+		System.out.println("TP2 Java");
+	//Solution 1
 		System.out.println(Arrays.toString(args));
 //
 //	//Solution 2
